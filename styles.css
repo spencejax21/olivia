@@ -1,0 +1,26 @@
+:root{
+
+	text-align: center;
+	background-color: black;
+}
+
+.button{
+
+	color:  blue;
+}
+
+.header{
+
+	color:  orange;
+}
+
+.pic {
+
+	display:  block;
+	margin:  auto;
+}
+
+.haha {
+
+	color:  black;
+}
